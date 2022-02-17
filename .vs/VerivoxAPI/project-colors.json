@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8914fb07-1b11-4d36-894e-51abdda938b5": {
+      "ProjectGuid": "8914fb07-1b11-4d36-894e-51abdda938b5",
+      "DisplayName": "VerivoxAPI",
+      "ColorIndex": 0
+    },
+    "bae11ba1-f2c7-44dc-8cf6-158a7eaab944": {
+      "ProjectGuid": "bae11ba1-f2c7-44dc-8cf6-158a7eaab944",
+      "DisplayName": "Verivox.Service",
+      "ColorIndex": 1
+    },
+    "b34a690f-4f01-4e69-abee-a2e5322da027": {
+      "ProjectGuid": "b34a690f-4f01-4e69-abee-a2e5322da027",
+      "DisplayName": "Verivox.Infrastructure",
+      "ColorIndex": 2
+    },
+    "961d2a6f-659d-4e05-afb5-5d836030c9e4": {
+      "ProjectGuid": "961d2a6f-659d-4e05-afb5-5d836030c9e4",
+      "DisplayName": "Verivox.Services",
+      "ColorIndex": 3
+    },
+    "c1981d98-41e9-404b-a822-2841f5e55c2f": {
+      "ProjectGuid": "c1981d98-41e9-404b-a822-2841f5e55c2f",
+      "DisplayName": "Verivox.Contracts",
+      "ColorIndex": 4
+    },
+    "5df368fa-ce8d-4884-91dc-0e12d732f0ac": {
+      "ProjectGuid": "5df368fa-ce8d-4884-91dc-0e12d732f0ac",
+      "DisplayName": "Verivox.Tests",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "ff537265-eec0-4df7-a372-9fbbdb8ba3c8": {
+      "ProjectGuid": "ff537265-eec0-4df7-a372-9fbbdb8ba3c8",
+      "DisplayName": "Verivox.Services",
+      "ColorIndex": 6
+    },
+    "ae37c818-c750-41bb-a1ac-60c33820562c": {
+      "ProjectGuid": "ae37c818-c750-41bb-a1ac-60c33820562c",
+      "DisplayName": "Verivox.Services",
+      "ColorIndex": 7
+    },
+    "359b3dc5-d981-4956-ba55-59822a8e65b0": {
+      "ProjectGuid": "359b3dc5-d981-4956-ba55-59822a8e65b0",
+      "DisplayName": "Verivox.Tests",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

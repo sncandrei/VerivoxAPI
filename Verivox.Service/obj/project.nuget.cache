@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tNGd/jKcN0XRvgOUSz6hTfmZxiFWETt6Adu/JLjAMfVjIcHFomb+oS52+/IRRvRBaAHnTlu2ECgVBpaiGfaRlw==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\Programming\\VerivoxAPI\\Verivox.Service\\Verivox.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SyncAndrew\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

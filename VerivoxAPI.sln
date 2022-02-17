@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VerivoxAPI", "VerivoxAPI\VerivoxAPI.csproj", "{8914FB07-1B11-4D36-894E-51ABDDA938B5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Verivox.Contracts", "Verivox.Contracts\Verivox.Contracts.csproj", "{C1981D98-41E9-404B-A822-2841F5E55C2F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Verivox.Services", "Verivox.Service\Verivox.Services.csproj", "{AE37C818-C750-41BB-A1AC-60C33820562C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Verivox.Tests", "Verivox.Tests\Verivox.Tests.csproj", "{359B3DC5-D981-4956-BA55-59822A8E65B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8914FB07-1B11-4D36-894E-51ABDDA938B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8914FB07-1B11-4D36-894E-51ABDDA938B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8914FB07-1B11-4D36-894E-51ABDDA938B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8914FB07-1B11-4D36-894E-51ABDDA938B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1981D98-41E9-404B-A822-2841F5E55C2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1981D98-41E9-404B-A822-2841F5E55C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1981D98-41E9-404B-A822-2841F5E55C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1981D98-41E9-404B-A822-2841F5E55C2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE37C818-C750-41BB-A1AC-60C33820562C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE37C818-C750-41BB-A1AC-60C33820562C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE37C818-C750-41BB-A1AC-60C33820562C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE37C818-C750-41BB-A1AC-60C33820562C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{359B3DC5-D981-4956-BA55-59822A8E65B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{359B3DC5-D981-4956-BA55-59822A8E65B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{359B3DC5-D981-4956-BA55-59822A8E65B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{359B3DC5-D981-4956-BA55-59822A8E65B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7116838C-B168-44BB-A8D1-7BA8A135E8BC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+D:\Work\Programming\VerivoxAPI\Verivox.Contracts\bin\Debug\net6.0\Verivox.Contracts.deps.json
+D:\Work\Programming\VerivoxAPI\Verivox.Contracts\bin\Debug\net6.0\Verivox.Contracts.dll
+D:\Work\Programming\VerivoxAPI\Verivox.Contracts\bin\Debug\net6.0\ref\Verivox.Contracts.dll
+D:\Work\Programming\VerivoxAPI\Verivox.Contracts\bin\Debug\net6.0\Verivox.Contracts.pdb
+D:\Work\Programming\VerivoxAPI\Verivox.Contracts\obj\Debug\net6.0\Verivox.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Programming\VerivoxAPI\Verivox.Contracts\obj\Debug\net6.0\Verivox.Contracts.AssemblyInfoInputs.cache
+D:\Work\Programming\VerivoxAPI\Verivox.Contracts\obj\Debug\net6.0\Verivox.Contracts.AssemblyInfo.cs
+D:\Work\Programming\VerivoxAPI\Verivox.Contracts\obj\Debug\net6.0\Verivox.Contracts.csproj.CoreCompileInputs.cache
+D:\Work\Programming\VerivoxAPI\Verivox.Contracts\obj\Debug\net6.0\Verivox.Contracts.dll
+D:\Work\Programming\VerivoxAPI\Verivox.Contracts\obj\Debug\net6.0\ref\Verivox.Contracts.dll
+D:\Work\Programming\VerivoxAPI\Verivox.Contracts\obj\Debug\net6.0\Verivox.Contracts.pdb
+D:\Work\Programming\VerivoxAPI\Verivox.Contracts\obj\Debug\net6.0\Verivox.Contracts.csproj.AssemblyReference.cache

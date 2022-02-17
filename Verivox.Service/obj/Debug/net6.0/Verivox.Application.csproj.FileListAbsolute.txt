@@ -1,0 +1,15 @@
+D:\Work\Programming\VerivoxAPI\Verivox.Application\bin\Debug\net6.0\Verivox.Application.deps.json
+D:\Work\Programming\VerivoxAPI\Verivox.Application\bin\Debug\net6.0\Verivox.Application.dll
+D:\Work\Programming\VerivoxAPI\Verivox.Application\bin\Debug\net6.0\ref\Verivox.Application.dll
+D:\Work\Programming\VerivoxAPI\Verivox.Application\bin\Debug\net6.0\Verivox.Application.pdb
+D:\Work\Programming\VerivoxAPI\Verivox.Application\obj\Debug\net6.0\Verivox.Application.csproj.AssemblyReference.cache
+D:\Work\Programming\VerivoxAPI\Verivox.Application\obj\Debug\net6.0\Verivox.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Programming\VerivoxAPI\Verivox.Application\obj\Debug\net6.0\Verivox.Application.AssemblyInfoInputs.cache
+D:\Work\Programming\VerivoxAPI\Verivox.Application\obj\Debug\net6.0\Verivox.Application.AssemblyInfo.cs
+D:\Work\Programming\VerivoxAPI\Verivox.Application\obj\Debug\net6.0\Verivox.Application.csproj.CoreCompileInputs.cache
+D:\Work\Programming\VerivoxAPI\Verivox.Application\obj\Debug\net6.0\Verivox.Application.dll
+D:\Work\Programming\VerivoxAPI\Verivox.Application\obj\Debug\net6.0\ref\Verivox.Application.dll
+D:\Work\Programming\VerivoxAPI\Verivox.Application\obj\Debug\net6.0\Verivox.Application.pdb
+D:\Work\Programming\VerivoxAPI\Verivox.Application\bin\Debug\net6.0\Verivox.Contracts.dll
+D:\Work\Programming\VerivoxAPI\Verivox.Application\bin\Debug\net6.0\Verivox.Contracts.pdb
+D:\Work\Programming\VerivoxAPI\Verivox.Application\obj\Debug\net6.0\Verivox.Application.csproj.CopyComplete
